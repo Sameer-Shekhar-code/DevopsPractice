@@ -1,1 +1,1 @@
-Hii this is sameer and this repo is to practice github commands.
+Hii this is sameer and this repo is to practice github commands. Adding more details to our read me file.
